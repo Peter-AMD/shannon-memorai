@@ -1,0 +1,9 @@
+.card-component {
+  max-height: 191px;
+  overflow: hidden;
+}
+
+.react-card-front img,
+.react-card-back img {
+  width: 150px;
+}

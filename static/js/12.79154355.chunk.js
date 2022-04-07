@@ -1,0 +1,2 @@
+(this["webpackJsonpshannon-bebe-memorai"]=this["webpackJsonpshannon-bebe-memorai"]||[]).push([[12],{81:function(e,a,n){"use strict";n.r(a),a.default=n.p+"static/media/back.130038b1.jpg"}}]);
+//# sourceMappingURL=12.79154355.chunk.js.map
